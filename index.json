@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiohttp-flashbag",
+  "versions": [
+    {
+      "commit": "705b31cca6fca1958f924931903bd1982719e281",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:47:49.180396+00:00"
+    }
+  ]
+}
