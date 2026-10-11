@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "aio-libs",
+  "repo": "aiohttp-flashbag",
+  "versions": [
+    {
+      "commit": "705b31cca6fca1958f924931903bd1982719e281",
+      "parsed_at": "2026-10-11T08:45:50.535530+00:00",
+      "filetree": "filetree/705b31cca6fca1958f924931903bd1982719e281.nq.gz",
+      "blobs": [
+        "blob/f95702ef847bb792ec3646370b8dad932f17efa2.nq.gz",
+        "blob/22f69148cd5522300ef52890e3c26dfe87b95601.nq.gz",
+        "blob/f9419eaf4ea8ce367ed758d93bd50b13b125ec36.nq.gz",
+        "blob/f2e0a8560f8626423fdcf77adab3b71f1a589017.nq.gz",
+        "blob/e2c9a18aa54b5429e8342bfcf8ab8d512be06994.nq.gz",
+        "blob/e5ee1abbd2c6355805f2990223fff1b178334c1d.nq.gz",
+        "blob/e29f967f4fb7652422474b8ea9dcbcd3b6cdb8fc.nq.gz",
+        "blob/76da7b0ccde76e325f5ba9c661ba1b4c3c25cc45.nq.gz",
+        "blob/1af13ed8aafd41e5af4b27347e1e990ec3962275.nq.gz",
+        "blob/7d2529e4c4a071f3ba59e04d0d99411580827365.nq.gz",
+        "blob/e24206f7951ce600070c653a55f024bdf4d78a08.nq.gz",
+        "blob/f0db52773f0df1fb485b386087b553cb4ff39e9e.nq.gz",
+        "blob/cd15dc0a42ba6fe26eecfe35ba5bdb37744ab1f3.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
